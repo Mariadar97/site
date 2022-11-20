@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 #
-gem 'jekyll'
+gem 'jekyll', github: 'jekyll/jekyll'
 gem 'minimal-mistakes-jekyll'
 
 # Github Pages deployment
