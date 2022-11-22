@@ -8,5 +8,7 @@ events:
   - smalltalk-paint 
   - macpaint-prototype
   - macpaint
+  - instagram
+  - adobe-photoshop
 ---
 
