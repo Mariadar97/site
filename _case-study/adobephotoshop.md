@@ -1,5 +1,5 @@
 ---
-author: mariadar97
+author: Mariadar97
 title: "Adobe Photoshop"
 image_url: /images/adobephotoshop.png
 caption: "Το adobe photoshop αποτελεί ένα λογισμικό επεξεργασίας εικόνων και γραφικών που δημοσιοποιήθηκε από την Adobe Inc."
