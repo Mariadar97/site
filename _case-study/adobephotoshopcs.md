@@ -9,5 +9,5 @@ tags:
   - Adobe Photoshop
 ---
 
-{% include cs-adobephotoshop.md %}
+{% include cs-adobephotoshopcs.md %}
 
