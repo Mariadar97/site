@@ -7,7 +7,6 @@ categories:
   - Μελέτη Περίπτωσης
 tags:
   - Adobe Photoshop
-  - success
 ---
 
 {% include cs-adobephotoshop.md %}
